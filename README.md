@@ -30,11 +30,11 @@ apt install -y git python3 ffmpeg
 ```
 - Clone this git repository.
 ```sh 
-git clone https://github.com/akpandawep/google-drive-telegram-bot
+git clone https://github.com/akpandawep/GDRIVE
 ```
 - Change Directory
 ```sh 
-cd google-drive-telegram-bot
+cd GDRIVE
 ```
 - Install requirements with pip3
 ```sh 
