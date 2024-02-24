@@ -3,7 +3,7 @@ class config:
     APP_ID = "29917436"
     API_HASH = "4a926822b076a086a167fe8f2701d3e9"
     DATABASE_URL = "mongodb+srv://fdavidl073fya8y:P60D7CTbSIEf7m0j@cluster0.s1wbwtu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-    SUDO_USERS = "" # Sepearted by space.
+    SUDO_USERS = "6141937812 5754154245" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
