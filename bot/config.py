@@ -1,7 +1,7 @@
 class config:
     BOT_TOKEN = "7112683751:AAGg06BCOLPBIGptNMgQu8OSWFrlmARMrag"
-    APP_ID = "29917436"
-    API_HASH = "4a926822b076a086a167fe8f2701d3e9"
+    APP_ID = "23182335"
+    API_HASH = "373389a98695c20b5e52084cc636efdf"
     DATABASE_URL = "mongodb+srv://fdavidl073fya8y:P60D7CTbSIEf7m0j@cluster0.s1wbwtu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     SUDO_USERS = "6141937812 5754154245" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
